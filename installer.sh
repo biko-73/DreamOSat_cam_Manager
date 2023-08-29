@@ -12,7 +12,7 @@
 
 PACKAGE_DIR='DreamOSat_cam_Manager/main'
 
-MY_IPK="enigma2-plugin-extensions-dreamosat-cammanager_20230101-r9.1_all.ipk"
+MY_IPK="enigma2-plugin-extensions-dreamosat-cammanager_20230801-r9.3_all.ipk"
 MY_DEB="enigma2-plugin-extensions-dreamosat-cammanager_20230102-r9.2_all.deb"
 
 ########################################################################################################################
